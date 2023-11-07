@@ -1,28 +1,23 @@
 # myGameJing
-Game Concept: What is the main idea of your partner’s game?
-You are in teams and you fight each other and whoever gets more points wins
-Main Characters: Who are the players or main elements in the game?
-The players: you and your teammates and competitors
-Game Environment: What does the game world look like?
-Not sure yet
-Behaviors: How do the characters or elements in the game behave?
-They can run around and shoot at each other and if they are hit a certain amount of times they die and cannot run around or shoot at anyone anymore
-Functions: What can the player do in the game?
-They can run around and shoot at enemies 
-They can maybe also win prizes maybe there can be hide and seek
-Relationships: How do different elements of the game interact with each other?
-If a player is hit by the colored ball they will start to die
-If a player clicks a prize they will get it (the prize can make them less likely to die ig)
+**Introduction:** A brief overview of the application/game, its purpose, and its target audience.
 
-Business Requirements
-Universal Accessibility: The application/game must be usable by all students at the school, ensuring inclusivity and adherence to the California non-discrimination clause.
-This game will not discriminate against anyone and everyone can play it
+My game is a multiplayer game with 2 teams of at least 1 person that compete against each other. The purpose of the game is to be fun, provide happiness and be universally accessible. It is also meant to exercise your hands when you move them. Competition between the users on the teams encourage active engagement and fosters relationships! The target audience of my game is people who like video games and have computers, like students at Harvard Westlake.
 
-Explicit Value/Use: Designers must clearly articulate the specific value or use that the application/game provides to its users.
-It provides fun
-Competitive Element: The application/game should facilitate competition among students, encouraging engagement and participation.
-Yes. students fight each other so they will compete and engage and participate
-Engagement and Addictiveness: The goal is to create an experience that is more engaging and addictive than applications/games designed by other classes. This will be measured by a combination of unique active users and median active user time spent on the app.
-yes
-Scalability and Expansion: The design must incorporate features or strategies that allow for growth and expansion beyond the initial homework assignment. This could include adoption by other schools, communities, or broader audiences at both local and global levels.
-Anyone can play this game i think
+**Value/Use:** A clear and explicit explanation of the value or use provided by the application/game.
+
+As mentioned above, the use of the game is to bring fun and active engagement with others to users' lives.
+
+**User Interaction and Experience:** A description of how users will interact with the application/game and what their experience will be like.
+
+
+**Competitive Element:** Details on how the application/game facilitates competition among students.
+
+
+**Engagement and Addictiveness Strategies:** An explanation of the features or strategies employed to make the application/game engaging and addictive.
+
+
+**Scalability and Expansion:** A discussion of how the design allows for future growth and adoption beyond the initial homework assignment.
+
+
+**Accessibility and Inclusivity:** A section detailing how the design adheres to the California non-discrimination clause and ensures inclusivity for all potential users.
+
