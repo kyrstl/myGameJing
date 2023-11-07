@@ -17,6 +17,7 @@ If a player clicks a prize they will get it (the prize can make them less likely
 Business Requirements
 Universal Accessibility: The application/game must be usable by all students at the school, ensuring inclusivity and adherence to the California non-discrimination clause.
 This game will not discriminate against anyone and everyone can play it
+
 Explicit Value/Use: Designers must clearly articulate the specific value or use that the application/game provides to its users.
 It provides fun
 Competitive Element: The application/game should facilitate competition among students, encouraging engagement and participation.
